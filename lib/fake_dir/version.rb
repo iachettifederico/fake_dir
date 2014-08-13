@@ -1,0 +1,3 @@
+module FakeDir
+  VERSION = "0.0.1"
+end
